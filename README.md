@@ -1,3 +1,4 @@
+<img width="1306" height="757" alt="Dashboard image" src="https://github.com/user-attachments/assets/05f331ee-0203-434e-8229-9b466538387c" />
 # SDG 7 — Global Electricity Access
 
 Data analytics project completed during my Data Analytics
